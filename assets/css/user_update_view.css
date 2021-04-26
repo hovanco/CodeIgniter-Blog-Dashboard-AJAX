@@ -1,0 +1,9 @@
+.form-add-user {
+	padding-right: 176px;
+	padding-top: 50px;
+	border-radius: 12px;
+	-webkit-box-shadow: 0 10px 6px -6px #777;
+	-moz-box-shadow: 0 10px 6px -6px #777;
+	box-shadow: 0 10px 6px -6px #777;
+	background-color: #fff;
+}
